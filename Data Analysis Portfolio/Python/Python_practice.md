@@ -4,7 +4,7 @@
 - Connected to the Rebrickable LEGO API using Python
 - Authenticated requests with an API key
 - Retrieved LEGO set and theme data using paginated API endpoints
-<img width="931" height="437" alt="image" src="https://github.com/user-attachments/assets/f3c6c63b-940d-461d-ac8a-5dcc648a40e2" />
+
 
 ## Data Formatting
 - Converted JSON API responses into pandas DataFrames

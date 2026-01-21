@@ -45,14 +45,17 @@
 
  - Identified top-selling video games globally <br>
    Insight: Global sales are highly concentrated, with a small number of blockbuster titles accounting for a disproportionate share of total market sales.
+   
 <img width="888" height="706" alt="image" src="https://github.com/user-attachments/assets/8dbc55cb-5cef-4ce5-9086-58829c674d3a" /> <br>
 
  - Analysed sales trends by release year <br>
    Insight: Industry-wide sales show clear growth and decline phases over time, reflecting console generation cycles and market saturation in later years.
+   
    <img width="864" height="759" alt="image" src="https://github.com/user-attachments/assets/9251e391-cfb3-4056-ae64-7c452d823b7a" /> <br> 
 
  - Compared performance of different gaming platforms <br>
    Insight: Platforms exhibit distinct lifecycle patterns, with a few dominant platforms driving most sales while others achieve higher average sales per title despite fewer releases.
+   
    <img width="627" height="779" alt="image" src="https://github.com/user-attachments/assets/a884f80f-dd15-49ce-8b9b-638faa9c0688" /> <br>
 
  - Explored regional genre preferences (NA, EU, Japan) <br>
